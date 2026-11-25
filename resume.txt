@@ -1,0 +1,98 @@
+Suraj Bodade
++91-9960696590 | surajbodade4@gmail.com | linkedin.com/in/suraj-bodade | github.com/surajsunrays
+Professional Summary
+Strategic and hands-on Lead DevOps Engineer with 8+ years of expertise designing, automating, and securing
+scalable, cloud-native infrastructure. Proven track record leading high-performing DevOps teams (5+ members)
+and bridging the gap between development, security, and operations through GitOps practices. Expert in driving
+complex corporate governance, successfully delivering HIPAA and SOC2 compliance within tight institutional
+timelines. Spearheading organizational AI enablement, specializing in secure AI tool onboarding, robust LLM access
+control, and proactive cloud/AI FinOps cost optimization.
+Core Technical Skills
+Cloud Platforms: AWS (EC2, VPC, RDS, EKS, S3, Elasticache), Microsoft Azure (VNet, Firewall, Virtual Machines,
+Databases), GCP (Domains, Compute, Storage Buckets)
+Infrastructure as Code: Terraform, CloudFormation
+CI/CD & GitOps: Jenkins, ArgoCD (Apps-of-Apps), GitHub Actions, Azure DevOps
+Containerization & Orchestration: Docker, Kubernetes
+AI Integration & FinOps: AI Tools Onboarding, Role-Based Access Control (RBAC) for LLMs, AI Model Cost
+Tracking, AWS Savings Plans
+Security & Compliance: HIPAA, SOC2, JumpCloud SSO, AWS Secrets Manager, HashiCorp Vault, GitGuardian,
+SonarQube Monitoring & Logging: Prometheus, Grafana, ELK Stack, Tempo, Sumo Logic
+Release Engineering: Ansible, Chef, Puppet
+Scripting: Bash, Python
+Programming Languages: C++, Java, Python
+Source Code Management: GitHub, GitLab, Azure Repos
+Collaboration: Cross-functional teams, Agile, GitOps
+Experience
+Lead Software Engineer - DevOps XCaliber Health Pvt. Ltd. August 2025 – Present
+Bangalore, Karnataka
+• Team Leadership: Direct a high-performing team of 5 DevOps engineers, managing sprint planning, mentoring
+junior engineers, and aligning infrastructure roadmaps with core business goals.
+• AI Adoption & Governance: Spearheaded the secure onboarding and integration of enterprise AI/LLM tools
+across the organization; established strict context-aware access controls and API token management to prevent data
+leakage.
+• Compliance Leadership: Led the rigorous infrastructure engineering required for HIPAA and SOC2 compliance,
+implementing automated auditing controls to achieve a 100% pass rate strictly within the target timeline.
+• Designed and implemented a custom release pipeline, automating deployment and rollback across 11+
+environments, improving release success rate by 98%.
+Senior Software Engineer - DevOps XCaliber Health Pvt. Ltd. March 2024 – August 2025
+Bangalore, Karnataka
+• Provisioned over 9 secure, scalable cloud environments (VPC, subnets, RDS, Elasticache, EKS) using Terraform,
+reducing manual setup time by 90%
+• Designed and implemented a custom release pipeline, automating deployment and rollback across 11+
+environments, improving release success rate by 98%.
+• Reduced AWS EKS costs by 30% within the first 3 months of joining, and achieved an additional 55% cost
+reduction over the subsequent 6 months through strategic optimization and right-sizing initiatives.
+• Deployed ArgoCD apps-of-apps pattern for 40+ microservices, shortening on-boarding time for new services by
+50%.
+• Led HIPAA and SOC2 compliance initiatives, contributing to a 100% audit pass rate.
+• Architected auto-scaling solutions, resulting in a 90% reduction in downtime for mission-critical applications.
+• Implemented a secure VPN solution integrated with JumpCloud SSO, enabling seamless protected access to bastion
+servers and privately hosted services across the cloud infrastructure.
+• Accelerated application deployments to Kubernetes/cloud, cutting go-live time from days to just 30 minutes for
+10+ projects.
+Senior DevOps Engineer Oct. 2022 – March 2024
+Tailorbird Inc. US, Remote
+• Built and managed QA, staging, and UAT environments via Terraform, supporting 5+ product teams and reducing
+environment setup time by 80%.
+• Automated deployments using GitHub Actions and ArgoCD, resulting in 98% deployment reliability and 90% faster
+release cycles.
+• Provisioned 30+ dedicated on-demand environments for feature/PR testing, enhancing developer productivity and
+test coverage.
+• Deployed SonarQube for secure coding, with a 70% reduction in code vulnerabilities year-over-year.
+• Led SOC2 security initiative, on-boarding 5+ security tools and establishing policies that reduced security incidents
+by 90%.
+• Implemented pipeline practices via GitGuardian, identifying and remediating 95% of secrets leakage cases within
+minutes.
+• Established distributed tracing using Grafana Tempo, improving incident response time by 55%.
+DevOps Engineer Nov 2018 – Oct 2022
+ZeMoSo Technologies Hyderabad, Telangana
+• Engineered AWS infrastructure for backend/production systems supporting 200K+ monthly users while reducing
+cloud spend by 30%.
+• Designed and maintained CI/CD pipelines with Jenkins and ArgoCD, increasing deployment frequency from weekly
+to daily.
+• Automated provisioning for multi-environment builds across 10+ teams, shortening setup time by 65%.
+• Managed AWS MQ clusters and implemented monitoring (Prometheus, Alert Manager, ELK) to achieve 99.99%
+service uptime and sub-5 minute alert response.
+• Enhanced Jenkins security via matrix access control for 45+ collaborators.
+• Maintained deployment scripts, set up ELK stack, and improved log analysis efficiency by 80%.
+• Provisioned infrastructure on Microsoft Azure, including Virtual Machines, Firewall, VNet, and other networking
+components, enhancing system scalability and security.
+• Leveraged Azure DevOps to automate deployment and release processes, streamlining CI/CD workflows and
+reducing deployment time across multiple environments.
+• Written Terraform code for infrastructure provisioning and configuring secrets management with HashiCorp Vault
+for secure, compliant operations.
+• Written Ansible scripts for automating configuration and deployment of all newly added services.
+• Resolved deployment issues across environments, improving overall deployment reliability and release times.
+Professional Certifications
+AWS:
+AWS Certified Cloud Practitioner (CLF-C02)
+AWS Certified Solutions Architect - Associate (SAA-C02)
+AWS Partner:
+Cloud Economics Accreditation
+Accreditation (Technical)
+Migration Ambassador Foundations (Business)
+Kubernetes:
+Certified Kubernetes Administrator (CKA)
+GitOps - CodeFresh:
+GitOps Fundamentals
+GitOps at Scale

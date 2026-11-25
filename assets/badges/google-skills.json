@@ -1,0 +1,78 @@
+{
+  "profile": "https://www.skills.google/public_profiles/a25eed00-7e41-4785-ad28-da08875a3445",
+  "checked": "2026-09-05",
+  "league": "Diamond League",
+  "points": 6414,
+  "badges": [
+    {
+      "title": "Manage Kubernetes in Google Cloud",
+      "date": "Earned Aug 30, 2026 EDT",
+      "url": "https://www.skills.google/public_profiles/a25eed00-7e41-4785-ad28-da08875a3445/badges/27416684",
+      "image": "https://cdn.qwiklabs.com/kv48x9UK42Fqn4QPSyXlXjHwTf75c9YtMBQb2kbVJgc%3D",
+      "file": "assets/badges/google-27416684.png"
+    },
+    {
+      "title": "AI Infrastructure: Cloud GPUs",
+      "date": "Earned Aug 30, 2026 EDT",
+      "url": "https://www.skills.google/public_profiles/a25eed00-7e41-4785-ad28-da08875a3445/badges/27397961",
+      "image": "https://cdn.qwiklabs.com/S3Fk0X5U9Xz76aXgmk4CAsmyzzHm4dsLx6Jic8OKQGU%3D",
+      "file": "assets/badges/google-27397961.png"
+    },
+    {
+      "title": "Developing Applications with Cloud Run Functions on Google Cloud",
+      "date": "Earned Aug 29, 2026 EDT",
+      "url": "https://www.skills.google/public_profiles/a25eed00-7e41-4785-ad28-da08875a3445/badges/27386115",
+      "image": "https://cdn.qwiklabs.com/H1TlyAwC5D%2BxojkEv8YL8ZhfjLf9U3haMXCMiODB5VM%3D",
+      "file": "assets/badges/google-27386115.png"
+    },
+    {
+      "title": "Implement CI/CD Pipelines on Google Cloud",
+      "date": "Earned Aug 18, 2026 EDT",
+      "url": "https://www.skills.google/public_profiles/a25eed00-7e41-4785-ad28-da08875a3445/badges/26950914",
+      "image": "https://cdn.qwiklabs.com/y0ljecuLROGjvQ8c%2FF44IcE6K3QztUCKZM3rbXHl9ew%3D",
+      "file": "assets/badges/google-26950914.png"
+    },
+    {
+      "title": "Getting Started with Google Kubernetes Engine",
+      "date": "Earned Aug 16, 2026 EDT",
+      "url": "https://www.skills.google/public_profiles/a25eed00-7e41-4785-ad28-da08875a3445/badges/26846850",
+      "image": "https://cdn.qwiklabs.com/HPtjPjHuWp197QQiSmfshQL2uNxmxDCHjWps43o10Cg%3D",
+      "file": "assets/badges/google-26846850.png"
+    },
+    {
+      "title": "Enterprise Agents and Use Cases",
+      "date": "Earned Aug 3, 2026 EDT",
+      "url": "https://www.skills.google/public_profiles/a25eed00-7e41-4785-ad28-da08875a3445/badges/26251383",
+      "image": "https://cdn.qwiklabs.com/jfojMnWb8aU0RY7RGTr0cL243DpWByzVgJTKotRfhBc%3D",
+      "file": "assets/badges/google-26251383.png"
+    },
+    {
+      "title": "Essential Google Cloud Infrastructure: Foundation",
+      "date": "Earned Aug 2, 2026 EDT",
+      "url": "https://www.skills.google/public_profiles/a25eed00-7e41-4785-ad28-da08875a3445/badges/26208009",
+      "image": "https://cdn.qwiklabs.com/9c8XeCn24xFK7oDaknFyV%2F%2BFL1CDFYD525yfI%2BO%2Fg3g%3D",
+      "file": "assets/badges/google-26208009.png"
+    },
+    {
+      "title": "Agent Fundamentals",
+      "date": "Earned Aug 1, 2026 EDT",
+      "url": "https://www.skills.google/public_profiles/a25eed00-7e41-4785-ad28-da08875a3445/badges/26199008",
+      "image": "https://cdn.qwiklabs.com/47eD8IG90fUEGDRKLwJq3Nk8hqpDAQk6Q5BksjZW%2FOY%3D",
+      "file": "assets/badges/google-26199008.png"
+    },
+    {
+      "title": "Build a Certification Study Guide: ACE Exam Prep",
+      "date": "Earned Jul 19, 2026 EDT",
+      "url": "https://www.skills.google/public_profiles/a25eed00-7e41-4785-ad28-da08875a3445/badges/25694751",
+      "image": "https://cdn.qwiklabs.com/lE1%2F0DKUDs0uJ7s9CUzUpbjfvkfR7QanlkJCoLeWkA8%3D",
+      "file": "assets/badges/google-25694751.png"
+    },
+    {
+      "title": "Getting Started with Terraform for Google Cloud",
+      "date": "Earned Jul 19, 2026 EDT",
+      "url": "https://www.skills.google/public_profiles/a25eed00-7e41-4785-ad28-da08875a3445/badges/25694175",
+      "image": "https://cdn.qwiklabs.com/E0EWS7rM9IiKp4MHZk4XgtRq%2B4RXqpLF0j961kAG5ac%3D",
+      "file": "assets/badges/google-25694175.png"
+    }
+  ]
+}
